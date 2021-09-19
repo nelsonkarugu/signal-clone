@@ -10,6 +10,6 @@
       npm install
   ```
 2. Run the application
-    ```sh
-       yarn start && npm start
-    ```
+   ```sh
+      yarn start && npm start
+   ```
