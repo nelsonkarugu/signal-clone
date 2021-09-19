@@ -5,4 +5,7 @@
 
 # How to run the app
 
-1. Use the command <bold>expo start<bold>
+1. Install the necessary packages
+  ```sh
+      npm install
+  ```
